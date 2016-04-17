@@ -1,0 +1,6 @@
+{
+  "name": "Parallel-Omp-Algorithm",
+  "tagline": "Aim of the project was to parallelize the OMP algorithm using CUDA",
+  "body": "# Parallel-OMP-Algorithm\r\nParallelizing the optimized matching pursuit algorithm.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
